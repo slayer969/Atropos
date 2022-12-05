@@ -75,7 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/slayer969/Atropos)
 
 There a lot of great invoicing software but what sets this software apart is the wide range of options and features automating all the work and processes while allowing you to have a full inventory control and monitoring.
 Please make sure to test this demo software and check the features avalible in it
