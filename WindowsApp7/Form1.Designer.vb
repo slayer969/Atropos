@@ -16684,7 +16684,7 @@ Partial Class Form1
         Me.MaximizeBox = False
         Me.Name = "Form1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Hypnos Invoicing"
+        Me.Text = "Atropos Invoicing"
         Me.TabControl1.ResumeLayout(False)
         Me.TabPage46.ResumeLayout(False)
         Me.TabPage46.PerformLayout
