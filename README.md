@@ -84,7 +84,7 @@ Please make sure to test this demo software and check the features avalible in i
 Here's why:
 * It allows a full coverage of the work related to invoicing.
 * Generates reports monthly, yearly and daily on demand.
-* it has build in stock managment.
+* It has build in stock managment.
 
 Of course, the features displayed in this project are not the limit. If desired we can add a veriety of features on demand.
 
