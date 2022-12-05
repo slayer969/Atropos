@@ -88,7 +88,7 @@ Here's why:
 
 Of course, the features displayed in this project are not the limit. If desired we can add a veriety of features on demand.
 
-Note: this is a commercial version of the software, If you are interested, make sure to <li><a href="#contact">Contact Us.</a></li>
+Note: this is a commercial version of the software, If you are interested, make sure to : <a href="#contact">Contact Us.</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
