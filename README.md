@@ -88,7 +88,7 @@ Here's why:
 
 Of course, the features displayed in this project are not the limit. If desired we can add a veriety of features on demand.
 
-Note: this is a commercial version of the software, If you are interested, make sure to <li><a href="#contact">Contact</a></li> Us.
+Note: this is a commercial version of the software, If you are interested, make sure to <li><a href="#contact">Contact Us.</a></li>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,7 +96,6 @@ Note: this is a commercial version of the software, If you are interested, make 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![VB][VB.NET]][VB-url]
 * [![MYSQL][MYSQL.com]][MYSQL-url]
@@ -158,7 +157,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-TACHOUA Mohamed Abdessamed - [Slayer666#1469] - ab.m.tachoua@gmail.com
+TACHOUA Mohamed Abdessamed - Discord : [Slayer666#1469] - ab.m.tachoua@gmail.com
 
 Project Link: [https://github.com/slayer969/Atropos](https://github.com/slayer969/Atropos)
 
